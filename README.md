@@ -1,7 +1,7 @@
 # MiniCommerce
 **Author: Jiro Noor**
 **Link:** https://github.com/jironoor8903/MiniCommerce
-**Demo:** https://youtu.be/oqKd2rExlA8
+**Demo:** [https://youtu.be/oqKd2rExlA8](https://youtu.be/f-_B8QSx66U)
 
 ## Project Overview
 
